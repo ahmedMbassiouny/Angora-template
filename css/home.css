@@ -110,7 +110,8 @@ nav {
   height: 100vh;
 }
 .intro .text-intro {
-  font-size: 80px;
+  font-size: 75px;
+  line-height: 0.9;
 }
 .go-to-bottom {
   width: 35px;
