@@ -326,6 +326,12 @@ footer .footer-links p {
   padding: 0;
   margin: 8px 0;
 }
+footer .footer-links  .btn {
+  color: #fff;
+  border-color: #fff;
+  margin: 8px 5px 8px 0;
+  font-size: 13px;
+}
 footer .footer-link {
   transition: 0.5s;
   cursor: pointer;
@@ -333,12 +339,6 @@ footer .footer-link {
 footer .footer-link:hover {
   color: var(--main-color);
   border-color: var(--main-color);
-}
-footer .footer-links  .btn {
-  color: #fff;
-  border-color: #fff;
-  margin: 8px 5px 8px 0;
-  font-size: 13px;
 }
 footer .copyright {
   background: #1a1a1a;
